@@ -1,0 +1,5 @@
+rootProject.name = 'DSTester'
+include ':react-native-tcp'
+project(':react-native-tcp').projectDir = new File(rootProject.projectDir, '../libs/react-native-tcp/android')
+
+include ':app'

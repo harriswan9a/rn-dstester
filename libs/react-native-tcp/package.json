@@ -1,0 +1,114 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-tcp@^3.2.2",
+        "scope": null,
+        "escapedName": "react-native-tcp",
+        "name": "react-native-tcp",
+        "rawSpec": "^3.2.2",
+        "spec": ">=3.2.2 <4.0.0",
+        "type": "range"
+      },
+      "/Users/harriswang/MyProject/ReactNative/DSTester"
+    ]
+  ],
+  "_from": "react-native-tcp@>=3.2.2 <4.0.0",
+  "_id": "react-native-tcp@3.2.2",
+  "_inCache": true,
+  "_location": "/react-native-tcp",
+  "_nodeVersion": "8.1.3",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-native-tcp-3.2.2.tgz_1499232744032_0.6475010656286031"
+  },
+  "_npmUser": {
+    "name": "aprock",
+    "email": "aprock@protonmail.com"
+  },
+  "_npmVersion": "5.0.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-tcp@^3.2.2",
+    "scope": null,
+    "escapedName": "react-native-tcp",
+    "name": "react-native-tcp",
+    "rawSpec": "^3.2.2",
+    "spec": ">=3.2.2 <4.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-tcp/-/react-native-tcp-3.2.2.tgz",
+  "_shasum": "5fe6074b0bd94c3efbd0a171288792b9e5dfadaa",
+  "_shrinkwrap": null,
+  "_spec": "react-native-tcp@^3.2.2",
+  "_where": "/Users/harriswang/MyProject/ReactNative/DSTester",
+  "author": {
+    "name": "Andy Prock",
+    "email": "aprock@protonmail.com"
+  },
+  "browser": {
+    "net": "./TcpSockets.js"
+  },
+  "bugs": {
+    "url": "https://github.com/PeelTechnologies/react-native-tcp/issues"
+  },
+  "dependencies": {
+    "base64-js": "0.0.8",
+    "buffer": "^5.0.0",
+    "events": "^1.0.2",
+    "ip-regex": "^1.0.3",
+    "process": "^0.11.9",
+    "stream": "0.0.2",
+    "stream-browserify": "^2.0.1",
+    "util": "^0.10.3"
+  },
+  "description": "node's net API for react-native",
+  "devDependencies": {
+    "babel-eslint": "^4.1.6",
+    "eslint-plugin-react": "^3.11.3"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-XN3A6a3vBZ7BMqI0jFBQedZfTztXlu20GjUgYlEp4Y1Yklr1xcl2tINRCi6KDXpYGByso0M6apNYMI9EzuD1Ug==",
+    "shasum": "5fe6074b0bd94c3efbd0a171288792b9e5dfadaa",
+    "tarball": "https://registry.npmjs.org/react-native-tcp/-/react-native-tcp-3.2.2.tgz"
+  },
+  "gitHead": "5dd58665c393a8751cbeb9148727fa70b814e407",
+  "homepage": "https://github.com/PeelTechnologies/react-native-tcp",
+  "keywords": [
+    "react-component",
+    "reactnative",
+    "react-native",
+    "net",
+    "tcp",
+    "sockets",
+    "ios",
+    "android"
+  ],
+  "license": "MIT",
+  "main": "TcpSockets.js",
+  "maintainers": [
+    {
+      "name": "aprock",
+      "email": "aprock@gmail.com"
+    }
+  ],
+  "name": "react-native-tcp",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react-native": ">=0.40.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeelTechnologies/react-native-tcp.git"
+  },
+  "scripts": {
+    "start": "exit 1"
+  },
+  "version": "3.2.2"
+}
