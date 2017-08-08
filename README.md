@@ -1,6 +1,6 @@
 # DSTester
 
-[![](https://raw.githubusercontent.com/harriswan9a/rn-dstester/master/screenshots/ezgif.com-optimize.gif)](https://github.com/harriswan9a/rn-dstester)
+[![](https://raw.githubusercontent.com/harriswan9a/rn-dstester/master/screenshots/ezgif.com-app.gif)](https://github.com/harriswan9a/rn-dstester)
 
 ### 版本
 
